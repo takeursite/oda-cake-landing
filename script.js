@@ -10,8 +10,8 @@
   var DECORS = [{ id: 'berries', name: 'Berries' }, { id: 'flowers', name: 'Flowers' }, { id: 'drip', name: 'Chocolate drip' }, { id: 'gold', name: 'Gold trim' }];
   var MONTHS = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
   // TODO: заполнить — Telegram username без @ и номер WhatsApp в международном формате без «+»
-  var TELEGRAM_USERNAME = '';
-  var WHATSAPP_NUMBER = '';
+  var TELEGRAM_USERNAME = 'takeursite';
+  var WHATSAPP_NUMBER = '12125550142';
   // Real cake photos. Only look-defining options count: shape, tiers, cover, decor (exact set).
   var PHOTOS = [
     { src: 'img/builder/cake-square-2-plum.jpg', alt: 'Two-tier square plum cake with strawberries, cherries and gold trim', shape: 'square', tiers: 2, cover: 'plum', decor: ['berries', 'gold'] },
