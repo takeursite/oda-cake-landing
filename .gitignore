@@ -1,0 +1,9 @@
+.DS_Store
+# рабочие материалы, не часть сайта
+behance/
+behance-ru/
+проверка/
+фото/
+*.png
+*.md
+reference-claude-landing.dc.html
